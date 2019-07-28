@@ -32,7 +32,7 @@ class NEPİXSOFTWARE
 
 // Örnek
 
-$apigetir = new Api();
+$apigetir = new NEPİXSOFTWARE();
 
 $sunucular = $apigetir->sunucularilistele(); # tüm sunuculari listele
 
